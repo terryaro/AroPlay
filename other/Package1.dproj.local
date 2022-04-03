@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.078,=rtl.dcp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.484,=rtl.dcp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.865,D:\HotKeyManager\HotKeyManager.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.256,=D:\ARO\AbroadRadio3.2\source\MsnPopup\MSNPopUp.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.240,=vclx.dcp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.453,=G:\0607\AbroadRadio3.2\source\AudioRecord.dcu</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.228,=D:\ARO\AbroadRadio3.2\source\Lame_Enc.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.281,=vcl.dcp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.238,=vclactnband.dcp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.243,=xmlrtl.dcp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.925,=C:\Users\ARO\Documents\RAD Studio\8.0\Imports\WMPLib_TLB.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.561,=C:\Users\ARO\Documents\RAD Studio\8.0\Imports\WMPLib_TLB.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.078,G:\0607\AbroadRadio3.2\source\Package1.dproj=D:\MyBackup\我的文档\RAD Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.006,=D:\HotKeyManager\HotKeyManager.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.770,=D:\AbroadRadio6.0 源代码\source\ZXIngQRCodeLi.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.235,=designide.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
