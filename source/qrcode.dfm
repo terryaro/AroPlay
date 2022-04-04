@@ -1,0 +1,51 @@
+object Form17: TForm17
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsDialog
+  ClientHeight = 225
+  ClientWidth = 253
+  Color = clWhite
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnClose = FormClose
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label2: TLabel
+    Left = 65
+    Top = 218
+    Width = 4
+    Height = 17
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clHighlight
+    Font.Height = -12
+    Font.Name = #24494#36719#38597#40657
+    Font.Style = []
+    ParentFont = False
+    Visible = False
+  end
+  object PaintBox1: TPaintBox
+    Left = 24
+    Top = 8
+    Width = 209
+    Height = 204
+    Cursor = crHandPoint
+    Hint = #20445#23384#27492#20108#32500#30721
+    ParentShowHint = False
+    ShowHint = True
+    OnClick = PaintBox1Click
+    OnPaint = PaintBox1Paint
+  end
+  object Timer1: TTimer
+    Enabled = False
+    OnTimer = Timer1Timer
+    Left = 80
+    Top = 64
+  end
+end
